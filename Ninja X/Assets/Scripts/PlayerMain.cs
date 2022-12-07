@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-public class PlayerMain : MonoBehaviour 
+public class PlayerMain : MonoBehaviour
 {
 
 	PlayerController 	playerCtrl;
@@ -25,6 +25,15 @@ public class PlayerMain : MonoBehaviour
 		{
 			playerCtrl.ActionJump ();
 		}
+		Attack();
 	}
-
+	void Attack()
+    {
+		if(Input.GetMouseButtonDown(1))
+			playerCtrl.ActionAttack(0);
+		else if(Input.GetMouseButtonDown(2))
+			playerCtrl.ActionAttack(1);
+		else if(Input.GetMouseButtonDown(0))
+			playerCtrl.ActionAttack(2);
+    }
 }
