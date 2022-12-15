@@ -1,0 +1,4 @@
+﻿  Tetra.cpp
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_003\Tetra.cpp(51,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_003\Tetra.cpp(51,26): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  wnd3DGameEngine_002.vcxproj -> D:\study\DJ-Class\Wnd\wnd3DGameEngine_003\x64\Debug\wnd3DGameEngine_002.exe

@@ -1,0 +1,33 @@
+﻿  GameEngineRun.cpp
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\GameEngineRun.cpp(195,15): error C2660: 'Matrix44::RotateZ': 함수는 0개의 인수를 사용하지 않습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.h(25,7): message : 'Matrix44::RotateZ' 선언을 참조하십시오.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\GameEngineRun.cpp(196,15): error C2660: 'Matrix44::RotateY': 함수는 0개의 인수를 사용하지 않습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.h(24,7): message : 'Matrix44::RotateY' 선언을 참조하십시오.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\GameEngineRun.cpp(197,15): error C2660: 'Matrix44::RotateX': 함수는 0개의 인수를 사용하지 않습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.h(23,7): message : 'Matrix44::RotateX' 선언을 참조하십시오.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\GameEngineRun.cpp(199,12): error C2660: 'Matrix44::Scale': 함수는 0개의 인수를 사용하지 않습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.h(22,7): message : 'Matrix44::Scale' 선언을 참조하십시오.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\GameEngineRun.cpp(201,16): error C2660: 'Matrix44::TransLate': 함수는 0개의 인수를 사용하지 않습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.h(21,7): message : 'Matrix44::TransLate' 선언을 참조하십시오.
+  Matrix44.cpp
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.cpp(44,10): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.cpp(45,10): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.cpp(55,10): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.cpp(56,10): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.cpp(66,10): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Matrix44.cpp(67,10): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Triangle.cpp
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Triangle.cpp(44,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Triangle.cpp(44,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Triangle.cpp(45,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Triangle.cpp(45,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Triangle.cpp(46,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\Triangle.cpp(46,17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Vector2D.cpp
+  wnd3DGameEngine_001.cpp
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001.cpp(23,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  wndAbout.cpp
+  wndGdi.cpp
+D:\study\DJ-Class\Wnd\wnd3DGameEngine_001\wnd3DGameEngine_001\wnd3DGameEngine_001\wndGdi.cpp(250,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  wndMainProc.cpp
+  코드를 생성하고 있습니다...
